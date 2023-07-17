@@ -32,7 +32,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ```
 
-Used this website to refernce special characters: https://owasp.org/www-community/password-special-characters
+Used this website to reference special characters: https://owasp.org/www-community/password-special-characters
 I referred to this documentation for help with JavaScript fundamentals: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 ```
 
