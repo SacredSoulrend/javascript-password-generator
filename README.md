@@ -30,4 +30,7 @@ THEN the password is either displayed in an alert or written to the page<br>
 
 ![Web capture_16-7-2023_225817_](https://github.com/SacredSoulrend/javascript-password-generator/assets/131583357/c1e9e079-46df-4cc6-8672-35644268a4bb)
 
+
 ## Link to the Website
+
+https://sacredsoulrend.github.io/javascript-password-generator/
