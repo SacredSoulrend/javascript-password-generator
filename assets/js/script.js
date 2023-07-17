@@ -78,3 +78,4 @@ function getCharacterTypes() {
     special: special
   };
 }
+
