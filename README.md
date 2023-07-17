@@ -34,6 +34,7 @@ THEN the password is either displayed in an alert or written to the page
 
 Used this website to refernce special characters: https://owasp.org/www-community/password-special-characters
 I refered back to this documentation to help me with JavaScript fundamnetals: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+```
 
 ![Web capture_16-7-2023_225817_](https://github.com/SacredSoulrend/javascript-password-generator/assets/131583357/c1e9e079-46df-4cc6-8672-35644268a4bb)
 
