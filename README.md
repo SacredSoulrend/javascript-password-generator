@@ -3,8 +3,9 @@
 ## User Story
 
 ```
-I want to generate a password at random that satisfies specific requirements because I am a bootcamp student with access to sensitive information.
-So that I may design a strong password that offers greater security
+As a bootcamp student with access to private information, 
+I WANT to generate a password at random that satisfies specific requirements.
+So I can make a reliable password that offers higher security.
 ```
 
 ## Acceptance Criteria
